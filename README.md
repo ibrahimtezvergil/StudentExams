@@ -1,7 +1,7 @@
 Step 1
 ```
 
-$ git clone https://github.com/ibrahimtezvergil/.git
+$ git clone https://github.com/ibrahimtezvergil/StudentExams.git
 $ cd laravel-blog
 $ cp .env.example .env
 $ composer install
